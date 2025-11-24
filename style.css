@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background-color: #0d0d0d;
+  color: #e0e6f7;
+  text-align: center;
+}
+.login-container { margin-top: 150px; }
+input { padding: 10px; border-radius: 5px; border: none; width: 220px; margin: 10px 0; }
+button { padding: 12px 30px; border-radius: 50px; border: none; background: linear-gradient(45deg, #00f0ff, #0088cc); color: #0d0d0d; font-weight: bold; cursor: pointer; transition: 0.3s; }
+button:hover { background: linear-gradient(45deg, #0088cc, #00f0ff); }
+.dashboard-container { margin-top: 50px; }
+.invest-box { margin: 20px 0; }
+.bot-status { margin: 20px 0; font-style: italic; color: #00f0ff; }
+canvas { background-color: #111; border-radius: 10px; margin-top: 20px; }
+
